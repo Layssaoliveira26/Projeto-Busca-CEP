@@ -1,0 +1,23 @@
+{
+  "name": "consultacep",
+  "version": "1.0.0",
+  "description": "Projeto proposto pela Tutoria do Programa Desenvolve - Grupo Boticário 🌱",
+  "main": "script-node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alicesfer/ConsultaCEP.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alicesfer/ConsultaCEP/issues"
+  },
+  "homepage": "https://github.com/alicesfer/ConsultaCEP#readme",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
